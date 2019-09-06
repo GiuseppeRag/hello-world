@@ -1,2 +1,5 @@
 # hello-world
-Repository Made For Full Stack
+
+ZA WARUDO!
+
+TOKI WO TOMARE!!!!
